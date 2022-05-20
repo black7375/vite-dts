@@ -5,6 +5,7 @@
   "author": "Alec Larson",
   "license": "MIT",
   "repository": "alloc/vite-dts",
+  "type": "module",
   "main": "dist/cjs/plugin.js",
   "module": "dist/esm/plugin.js",
   "exports": {

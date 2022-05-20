@@ -1,6 +1,7 @@
 {
   "name": "vite-lib",
   "version": "1.0.0",
+  "type": "module",
   "main": "dist/vite-lib.cjs.js",
   "module": "dist/vite-lib.es.js",
   "files": [
